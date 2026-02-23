@@ -18,7 +18,8 @@ sales_data.db
 ## Output
 - Printed sales summary
 - Bar chart showing revenue by product
-![Sales Chart](Revenu x Product.png)
+### 2️⃣ Revenue Bar Chart
+![Sales Chart](screenshots/revenue_chart.png)
 - Saved chart as sales_chart.png
 
 ## Key Learnings
